@@ -2,10 +2,10 @@
 
 # Name: Karthik Kumar V
 # ID: CT08DS1255
-# Domain : Data Science
+# Domain: Data Science
 # Duration: May 25 to June 25
 # Mentor: Sravani Gouni
-# Description: ### Exploratory Data Analysis (EDA) Project Description
+# Description: 
 
 In this project, we begin with a dataset of your choice and conduct a thorough Exploratory Data Analysis (EDA) using powerful Python libraries such as pandas, numpy, and matplotlib or seaborn. The goal of EDA is to explore the dataset's characteristics, identify patterns, uncover anomalies, and summarize the main aspects of the data, often with visual methods.
 
