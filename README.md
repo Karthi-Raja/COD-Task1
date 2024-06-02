@@ -14,7 +14,7 @@ This project aims to perform Exploratory Data Analysis (EDA) on a dataset contai
 - Data Cleaning: Ensuring the dataset is free from inconsistencies and missing values.
 = Data Visualization: Creating visualizations to understand data distributions, trends, and relationships.
 - Correlation Analysis: Identifying correlations between blood donors' data.
-*Technologies Used*
+-  *Technologies Used*
 - Python: The primary programming language for data analysis.
 - pandas: Used for data manipulation and analysis.
 - matplotlib: Employed for creating static, animated, and interactive visualizations.
