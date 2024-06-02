@@ -11,14 +11,14 @@
 This project aims to perform Exploratory Data Analysis (EDA) on a dataset containing data of blood donors distributions, correlations, and outliers through visualizations.
 
 # Key Activities
-Data Cleaning: Ensuring the dataset is free from inconsistencies and missing values.
-Data Visualization: Creating visualizations to understand data distributions, trends, and relationships.
-Correlation Analysis: Identifying correlations between blood donors' data.
+- Data Cleaning: Ensuring the dataset is free from inconsistencies and missing values.
+= Data Visualization: Creating visualizations to understand data distributions, trends, and relationships.
+- Correlation Analysis: Identifying correlations between blood donors' data.
 Technologies Used
-Python: The primary programming language for data analysis.
-pandas: Used for data manipulation and analysis.
-matplotlib: Employed for creating static, animated, and interactive visualizations.
-seaborn: Utilized for making statistical graphics that are informative and attractive.
+- Python: The primary programming language for data analysis.
+- pandas: Used for data manipulation and analysis.
+- matplotlib: Employed for creating static, animated, and interactive visualizations.
+- seaborn: Utilized for making statistical graphics that are informative and attractive.
 
 # Key Insights
 
